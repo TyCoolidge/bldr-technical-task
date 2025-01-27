@@ -1,0 +1,26 @@
+[
+	{
+		"_id": "1",
+		"name": "helmet",
+		"pricePerDay": 25,
+		"description": "Snowboarding helmet for protection",
+		"available": false,
+		"returnDate": 1738112950064
+	},
+	{
+		"_id": "2",
+		"name": "snowboard",
+		"pricePerDay": 50,
+		"description": "Snowboarding board for beginners",
+		"available": true,
+		"returnDate": null
+	},
+	{
+		"_id": "3",
+		"name": "googles",
+		"pricePerDay": 20,
+		"description": "Snowboarding googles for protection",
+		"available": false,
+		"returnDate": 1746575727032
+	}
+]
