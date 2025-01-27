@@ -29,8 +29,8 @@ The Database is stored in the `db` folder of the project as a JSON file with val
 
 NOTE: Make sure server is running before using Swagger UI or Postman.
 
-- Swagger UI: `http://localhost:8100/api-docs`
-- Postman: `https://www.postman.com/`
+- Swagger UI: [`http://localhost:8100/api-docs`](http://localhost:8100/api-docs)
+- Postman: [`https://www.postman.com/`](https://www.postman.com/)
 
 ## Solution & Approach
 
